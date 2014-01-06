@@ -1,5 +1,8 @@
 ws_security
 ===========
+
+This project will show simple way for  achieving the message level security.
+
 Create a public -private key using keytool
 Add the private key to keystore.jks
 Store the public key in truststore.
